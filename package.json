@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/fabriciored/clean-node-api/issues"
   },
-  "homepage": "https://github.com/fabriciored/clean-node-api#readme"
+  "homepage": "https://github.com/fabriciored/clean-node-api#readme",
+  "devDependencies": {
+    "standard": "^14.3.4"
+  }
 }
